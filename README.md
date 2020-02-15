@@ -1,3 +1,3 @@
 # Cellular-automata
 
-This program simulates Elementary Cellular Automata.
+This program simulates Elementary Cellular Automata using Java.
