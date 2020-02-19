@@ -10,6 +10,5 @@ The program will initialize the grid to a width of n × 2, with a single cell se
 
 Example run command in Console: java CA 20 223 will create an automaton with grid width (20 × 2 =) 40, and will run for 20 iterations using Rule 223.
 
-How to handle the update of the leftmost and rightmost cells:  the easiest way is to ignore them and only update the cells from [1] to ['last'-1].  Or, if you prefer, you can pretend that there are cells at [-1] and ['last+1] that have state = 0.  It's up to you.  The Rule90 example code does it the first way.
 
 
